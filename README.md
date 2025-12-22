@@ -163,7 +163,7 @@ MIT License — free to use, modify, and distribute.
 
 ## 🤝 *Contributions*
 Feel free to fork the repo and submit PRs for new features or improvements.
--Kavya Patel
+- Kavya Patel
 - Kshitij Patel
 - Harsh Patel
 - Kanvi Makwana
