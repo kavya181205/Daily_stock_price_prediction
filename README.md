@@ -16,7 +16,7 @@ The workflow includes:
 
 ## 📂 *Project Structure*
 
-
+```
 📦 stock-trend-prediction
 │
 ├── data/
@@ -32,7 +32,7 @@ The workflow includes:
 │   └── GRU_<company>.keras    ← trained models saved per company
 │
 └── README.md                  ← this file
-
+```
 
 ---
 
@@ -124,7 +124,7 @@ The final model can perform *two tasks*:
 
 ### *Step 1 — Install Dependencies*
 
-pip install numpy pandas matplotlib scikit-learn tensorflow ta
+```pip install numpy pandas matplotlib scikit-learn tensorflow ```
 
 
 ### *Step 2 — Run Data Mining Notebook*
